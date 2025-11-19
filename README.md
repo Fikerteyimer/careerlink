@@ -1,29 +1,27 @@
                            # CareerLink — Job Networking & Career Management Web Application
 
         GROUP MEMBERS
-1.  Fenet Firomsa
-2.  Fikerte Yimer                    
-3.	Fiker Robel                        
-4.	Hawi Sebsibe                     
-5.	Haleluya Desalegn                                
- 
 
+1.  Fenet Firomsa
+2.  Fikerte Yimer
+3.  Fiker Robel
+4.  Hawi Sebsibe
+5.  Haleluya Desalegn
 
 **CareerLink** is a multi-page web application designed to help users find jobs, manage their professional profiles, track applications, and network with other professionals. This version includes **full HTML structure**. CSS and JavaScript will be implemented in later stages to enhance UI and interactivity.
 
 ---
 
-
 ## Overview
 
 CareerLink is a job networking and career management platform that allows users to:
 
-- Create and manage personal profiles  
-- Explore and apply for jobs  
-- Post job listings (for recruiters)  
-- Track applications and notifications  
-- Network with other professionals  
-- Send and receive messages  
+- Create and manage personal profiles
+- Explore and apply for jobs
+- Post job listings (for recruiters)
+- Track applications and notifications
+- Network with other professionals
+- Send and receive messages
 
 This version of CareerLink is built purely in HTML to establish the **page structure**. Future versions will include **CSS styling** and **JavaScript interactivity** for a dynamic user experience.
 
@@ -31,21 +29,22 @@ This version of CareerLink is built purely in HTML to establish the **page struc
 
 ## Features
 
-| Module | Description |
-|--------|-------------|
-| Dashboard | Overview of user profile, stats, recommended jobs, notifications, posts, and messages |
-| Profile Management | View and edit personal information, skills, experience, and contact details |
-| Job Listings | Browse available jobs with search functionality |
-| Job Details | View job description, requirements, and apply (placeholder) |
-| Post Job | Submit a new job listing (for recruiters) |
-| Applications | Track submitted applications with status updates |
-| Networking | Explore suggested connections and connect with other professionals |
-| Messaging | Chat with connections; see recent conversations |
-| Settings | Manage account, privacy, and notification preferences |
+| Module             | Description                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Dashboard          | Overview of user profile, stats, recommended jobs, notifications, posts, and messages |
+| Profile Management | View and edit personal information, skills, experience, and contact details           |
+| Job Listings       | Browse available jobs with search functionality                                       |
+| Job Details        | View job description, requirements, and apply (placeholder)                           |
+| Post Job           | Submit a new job listing (for recruiters)                                             |
+| Applications       | Track submitted applications with status updates                                      |
+| Networking         | Explore suggested connections and connect with other professionals                    |
+| Messaging          | Chat with connections; see recent conversations                                       |
+| Settings           | Manage account, privacy, and notification preferences                                 |
 
 ---
 
 ## System Architecture
+
 User
 ├── Dashboard
 ├── Profile
@@ -57,17 +56,15 @@ User
 └── Messages
 ↓
 
-
-
 ---
 
 ## Technology Stack
 
-| Layer | Technology |
-|-------|------------|
-| Frontend | HTML5 |
-| Future Enhancements | CSS3, JavaScript |
-| Storage | Local storage (future: database integration) |
+| Layer               | Technology                                   |
+| ------------------- | -------------------------------------------- |
+| Frontend            | HTML5                                        |
+| Future Enhancements | CSS3, JavaScript                             |
+| Storage             | Local storage (future: database integration) |
 
 ---
 
@@ -122,3 +119,6 @@ Backend Integration       	Connect to a server for storing jobs, applications, a
 User Authentication       	Secure login/signup with session management
 Cloud Storage	              Persist data across devices
 AI Recommendations	        Suggest jobs and connections based on user profile
+
+ we really appreciate our instructor for making us practise hands-on projects for understanding the web industry in job specific way
+```
